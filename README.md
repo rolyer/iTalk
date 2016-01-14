@@ -39,14 +39,23 @@ npm start
 # Upgrade Histories:
 
 date: 2015/04/09
+
 > Send and receive text message
+
 > push message features
+
 > Message storage(MongoDB)
+
 > Fetch histories
+
 > Show user info(avatar, nickname..)
+
 > Multi-window chat support
+
 > Window dragging support;
+
 > Window shrinking support;
+
 > Mobile support;
 
 
