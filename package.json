@@ -1,0 +1,30 @@
+{
+  "name": "iTalk",
+  "version": "1.0.0",
+  "description": "A web talk tool.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.gtxh.cn/root/iTalk.git"
+  },
+  "keywords": [
+    "IM"
+  ],
+  "author": "Rolyer Luo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.12.2",
+    "cas-client": "0.1.1",
+    "connect-multiparty": "^1.2.5",
+    "ejs": "^1.0.0",
+    "express": "4.1.1",
+    "faye": "1.1.1",
+    "mongodb": "^1.4.35",
+    "mongoose": "4.0.1",
+    "node-uuid": "^1.4.3"
+  }
+}
