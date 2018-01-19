@@ -20,7 +20,7 @@
     "body-parser": "1.12.2",
     "cas-client": "0.1.1",
     "connect-multiparty": "^1.2.5",
-    "ejs": "^1.0.0",
+    "ejs": "2.5.5",
     "express": "4.1.1",
     "faye": "1.1.1",
     "mongodb": "^1.4.35",
